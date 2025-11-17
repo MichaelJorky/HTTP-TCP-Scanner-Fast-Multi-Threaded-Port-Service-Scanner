@@ -12,7 +12,7 @@ Aplikasi menampilkan hasil scan secara real-time dalam bentuk tabel berwarna unt
 * **Load IP otomatis** dari file list.
 * Mode **TCP Only** untuk pengecekan cepat.
 * Validasi **Username & Password** untuk HTTP/Web Auth.
-* Input **multi-port** dengan format fleksibel (contoh: `22,23,80,443,8080,8081,8443,8888,9090,9091,8728,8729,8291`).
+* Input **multi-port** dengan format fleksibel (contoh: `22,80,443,8080,8443` atau `1-1000,2000-3000` atau `22,80,443,8080,8443,1-1000,2000-3000`).
 * **Multi-thread scanning** dengan progress bar real-time.
 * Tampilan **status per port**:
 
