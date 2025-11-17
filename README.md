@@ -54,7 +54,7 @@ Aplikasi ini juga dilengkapi dengan *default port presets* untuk memudahkan pros
 
 ```
 21, 22, 23, 25, 53, 80, 110, 137, 138, 139, 143, 443, 445, 548, 587, 993, 995, 
-1433, 1701, 1723, 3306, 5432, 8008, 8443
+1433, 1701, 1723, 3306, 5432, 8008, 8443, 8728, 8729, 8291
 ```
 
 ### 🎮 **Game Ports**
@@ -67,7 +67,7 @@ Aplikasi ini juga dilengkapi dengan *default port presets* untuk memudahkan pros
 ### 📱 **Application Ports**
 
 ```
-515, 631, 3282, 3389, 5190, 5050, 4443, 1863, 6891, 1503, 5631, 5632, 5900, 6667
+515, 631, 3282, 3389, 5190, 5050, 4443, 1863, 6891, 1503, 5631, 5632, 5900, 6667, 8080, 8081, 8888, 9090, 9091
 ```
 
 ### 🔁 **P2P Ports**
